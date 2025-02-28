@@ -1,0 +1,72 @@
+[submodule "01.DataTypesAndVariables"]
+	path = 01.DataTypesAndVariables
+	url = https://github.com/Barzinski81/01.DataTypesAndVariables.git
+[submodule "02.KeyConcepts"]
+	path = 02.KeyConcepts
+	url = https://github.com/Barzinski81/02.KeyConcepts.git
+[submodule "03.DataTypesVariablesAndKeyConcepts"]
+	path = 03.DataTypesVariablesAndKeyConcepts
+	url = https://github.com/Barzinski81/03.DataTypesVariablesAndKeyConcepts.git
+[submodule "04.SimpleConditionalStatements"]
+	path = 04.SimpleConditionalStatements
+	url = https://github.com/Barzinski81/04.SimpleConditionalStatements.git
+[submodule "05.ComplexConditionalStatements"]
+	path = 05.ComplexConditionalStatements
+	url = https://github.com/Barzinski81/05.ComplexConditionalStatements.git
+[submodule "06.ConditionalStatements"]
+	path = 06.ConditionalStatements
+	url = https://github.com/Barzinski81/06.ConditionalStatements.git
+[submodule "07.ForLoop"]
+	path = 07.ForLoop
+	url = https://github.com/Barzinski81/07.ForLoop.git
+[submodule "08.WhileLoop"]
+	path = 08.WhileLoop
+	url = https://github.com/Barzinski81/08.WhileLoop.git
+[submodule "09.Loops"]
+	path = 09.Loops
+	url = https://github.com/Barzinski81/09.Loops.git
+[submodule "10.NestedLoops"]
+	path = 10.NestedLoops
+	url = https://github.com/Barzinski81/10.NestedLoops.git
+[submodule "11.Methods"]
+	path = 11.Methods
+	url = https://github.com/Barzinski81/11.Methods.git
+[submodule "12.ExerciseMethods"]
+	path = 12.ExerciseMethods
+	url = https://github.com/Barzinski81/12.ExerciseMethods.git
+[submodule "13.Arrays"]
+	path = 13.Arrays
+	url = https://github.com/Barzinski81/13.Arrays.git
+[submodule "14.ExerciseArrays"]
+	path = 14.ExerciseArrays
+	url = https://github.com/Barzinski81/14.ExerciseArrays.git
+[submodule "15.Lists"]
+	path = 15.Lists
+	url = https://github.com/Barzinski81/15.Lists.git
+[submodule "16.ExerciseLists"]
+	path = 16.ExerciseLists
+	url = https://github.com/Barzinski81/16.ExerciseLists.git
+[submodule "17.UnitTestingMethods"]
+	path = 17.UnitTestingMethods
+	url = https://github.com/Barzinski81/17.UnitTestingMethods.git
+[submodule "18.UnitTestungArraysLists"]
+	path = 18.UnitTestungArraysLists
+	url = https://github.com/Barzinski81/18.UnitTestungArraysLists.git
+[submodule "19.UnitTestingArraysLists"]
+	path = 19.UnitTestingArraysLists
+	url = https://github.com/Barzinski81/19.UnitTestingArraysLists.git
+[submodule "20.ExerciseUnitTestingMethods"]
+	path = 20.ExerciseUnitTestingMethods
+	url = https://github.com/Barzinski81/20.ExerciseUnitTestingMethods.git
+[submodule "21.ExerciseUnitTestingArrays"]
+	path = 21.ExerciseUnitTestingArrays
+	url = https://github.com/Barzinski81/21.ExerciseUnitTestingArrays.git
+[submodule "22.ExerciseUnitTestingLists"]
+	path = 22.ExerciseUnitTestingLists
+	url = https://github.com/Barzinski81/22.ExerciseUnitTestingLists.git
+[submodule "23.ExamPrep1"]
+	path = 23.ExamPrep1
+	url = https://github.com/Barzinski81/23.ExamPrep1.git
+[submodule "24.ExamPrep2"]
+	path = 24.ExamPrep2
+	url = https://github.com/Barzinski81/24.ExamPrep2.git
