@@ -70,3 +70,21 @@
 [submodule "24.ExamPrep2"]
 	path = 24.ExamPrep2
 	url = https://github.com/Barzinski81/24.ExamPrep2.git
+[submodule "00a.RetakeExam17December2024"]
+	path = 00a.RetakeExam17December2024
+	url = https://github.com/Barzinski81/00.RetakeExam17December2024.git
+[submodule "00b.RetakeExam16April2024"]
+	path = 00b.RetakeExam16April2024
+	url = https://github.com/Barzinski81/00.RetakeExam16April2024.git
+[submodule "00c.RegularExam-2March2024"]
+	path = 00c.RegularExam-2March2024
+	url = https://github.com/Barzinski81/00.RegularExam-2March2024.git
+[submodule "00d.RetakeExam-20December2023"]
+	path = 00d.RetakeExam-20December2023
+	url = https://github.com/Barzinski81/00.RetakeExam-20December2023.git
+[submodule "00e.RegularExam-5November2023"]
+	path = 00e.RegularExam-5November2023
+	url = https://github.com/Barzinski81/00.RegularExam-5November2023.git
+[submodule "00f.RegularExam-19October2023"]
+	path = 00f.RegularExam-19October2023
+	url = https://github.com/Barzinski81/00.RegularExam-19October2023.git
